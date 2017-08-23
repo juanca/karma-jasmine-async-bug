@@ -4,7 +4,7 @@
   "description": "https://github.com/karma-runner/karma-jasmine/issues/185",
   "main": "index.js",
   "scripts": {
-    "test": "jasmine init"
+    "test": "jasmine"
   },
   "author": "Juan Carlos Medina",
   "license": "ISC",
