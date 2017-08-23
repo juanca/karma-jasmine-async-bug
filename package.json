@@ -4,7 +4,7 @@
   "description": "https://github.com/karma-runner/karma-jasmine/issues/185",
   "main": "index.js",
   "scripts": {
-    "test": "jasmine"
+    "test": "karma init"
   },
   "author": "Juan Carlos Medina",
   "license": "ISC",
@@ -15,5 +15,8 @@
   },
   "engines": {
     "node": ">=6.10.1"
+  },
+  "devDependencies": {
+    "karma-chrome-launcher": "^2.2.0"
   }
 }
