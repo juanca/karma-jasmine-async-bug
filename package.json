@@ -9,7 +9,9 @@
   "author": "Juan Carlos Medina",
   "license": "ISC",
   "dependencies": {
-    "jasmine": "^2.7.0"
+    "jasmine": "^2.7.0",
+    "karma": "^1.7.0",
+    "karma-jasmine": "^1.1.0"
   },
   "engines": {
     "node": ">=6.10.1"
