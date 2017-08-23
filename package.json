@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "jasmine": "^2.7.0"
+  },
+  "engines": {
+    "node": ">=6.10.1"
   }
 }
